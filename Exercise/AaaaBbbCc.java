@@ -24,6 +24,10 @@ public class AaaaBbbCc {
             }
             result.append(currentChar).append(count);
         }
+        int n1 = 234;
+        while(n1!=0) {
+      System.out.println("helllooo");
+        n1/=10;}
         return result.toString();
     }
 }
